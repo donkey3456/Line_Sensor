@@ -18,4 +18,4 @@ then we write the program for line tracking.
 
 Circuit for each sensor channel:
 
-![](https://cloud.githubusercontent.com/assets/14858968/12377366/6f6cb8ca-bd56-11e5-8371-3b16cc7906b7.jpg)
+![circuit](https://cloud.githubusercontent.com/assets/14858968/12377366/6f6cb8ca-bd56-11e5-8371-3b16cc7906b7.jpg)
